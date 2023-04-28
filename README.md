@@ -1,5 +1,5 @@
 # REST API made in Spring Boot
-## for handling data from Narodowy Bank Polski
+for handling data from Narodowy Bank Polski
 
 ### Building docker image:
 ```docker
